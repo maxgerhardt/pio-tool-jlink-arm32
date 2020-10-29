@@ -1,0 +1,18 @@
+{
+  "name": "tool-jlink",
+  "version": "1.65200.0",
+  "description": "Software and Documentation Pack for SEGGER J-Link debug probes",
+  "keywords": [
+    "tools",
+    "debugger",
+    "debug server",
+    "uploader"
+  ],
+  "homepage": "https://www.segger.com/downloads/jlink/",
+  "system": [
+    "linux_armv6l",
+    "linux_armv7l",
+    "linux_armv8l",
+    "linux_aarch64"
+  ]
+}
